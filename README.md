@@ -145,6 +145,10 @@ Start the backend server:
 ```bash
 npm run dev
 ```
+or
+```bash
+npm start
+```
 
 > Backend runs at: `http://localhost:3001`
 
