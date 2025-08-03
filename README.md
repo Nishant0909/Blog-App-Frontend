@@ -4,6 +4,14 @@
 
 ---
 
+## 🌐 GitHub Repositories
+
+- 📦 **Frontend Repository**: [Blog-App-Frontend](https://github.com/Nishant0909/Blog-App-Frontend)
+- ⚙️ **Backend Repository**: [Blog-App-Backend](https://github.com/Nishant0909/Blog-App-Backend)
+
+---
+
+
 ## 🚀 Features
 
 - 🔐 User authentication (JWT-based)
